@@ -1,2 +1,4 @@
 # hello-world
 Test repo
+OK, off we go.
+This is not a real project, just messing around.
